@@ -8,23 +8,36 @@ View the deployed page at [Ecommerce-backend-database](not applicable).
 * [Usage](#usage)
    * [Screenshots](#screenshots)
 * [Built With](#built-with)
+* [License](#license)
+* [Contributing](#contributing)
 * [Questions](#questions)
 * [Credits](#credits)
+
+## Installation
+To use this application, please install: 
+```
+To use this application, you must utilize Node.js, SQL and JavaScript. The dependencies from npm that are required are as follows: Sequelize, mysql2, dotenv, inquirer, and chalk.
+```
 
 ## Usage
 A user can use this application by running and testing of routes with applications like Insomnia or strictly through using a MySQL shell. Once the database has been created, seeded, and the server started, users can interact with the database through routing of different api end points. 
   
 ### Screenshots
-![insomina screenshot](screenshot link)
+![Insomina Screenshot](./assets/images/insomnia.png)
 
-![Link to app in use](Video link)
+![Code Screenshot](./assets/images/code.png)
+
+![Link to app in use] https://drive.google.com/file/d/1gOlxVnVGkzdmCQfpicayN0vf7dE_6FbZ/view
+
+## License
+This application is licensed under the MIT license.
+  
+## Contributing
+There are no guidelines for contributing, please fork and use as required.
 
 
 ## Built With
 
-* HTML
-* CSS
-* SASS
 * JavaScript
 * Node.js
 * Express.js
@@ -33,7 +46,7 @@ A user can use this application by running and testing of routes with applicatio
 If you have any questions about the repo, please [open an issue](https://github.com/DigitallyIntrinsic/ecommerce/issues) or contact me via email at gitboot@1002.us. You can find more of my work on my GitHub, [DigitallyIntrinsic](https://github.com/DigitallyIntrinsic/).
   
 ## Credits
-* [Bootcamp code](No link available)
-* [ ChatGPT](gpt link)
+* Bootcamp Starter Code
+* [ChatGPT](https://chat.openai.com/)
 
   
