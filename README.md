@@ -1,5 +1,5 @@
 # Ecommerce-backend-database
-[![Issues](https://img.shields.io/github/issues/DigitallyIntrinsic/ecommerce)](https://github.com/DigitallyIntrinsic/ecommerce/issues) [![Issues](https://img.shields.io/github/contributors/DigitallyIntrinsic/ecommerce)](https://github.com/DigitallyIntrinsic/ecommerce/graphs/contributors) 
+[![Issues](https://img.shields.io/github/issues/DigitallyIntrinsic/employeetracker)](https://github.com/DigitallyIntrinsic/employeetracker/issues) [![Issues](https://img.shields.io/github/contributors/DigitallyIntrinsic/employeetracker)](https://github.com/DigitallyIntrinsic/employeetracker/graphs/contributors) ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 ## Description
 This application was created so that internet retail companies can utilize a MySQL database and keep an up to date record of specific categories, products, and tags related to the sale, and inventory of their e-commerce business.
           
