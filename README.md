@@ -21,13 +21,14 @@ To use this application, you must utilize Node.js, SQL and JavaScript. The depen
 
 ## Usage
 A user can use this application by running and testing of routes with applications like Insomnia or strictly through using a MySQL shell. Once the database has been created, seeded, and the server started, users can interact with the database through routing of different api end points. 
+
+## Live Screen Recording of Application
+https://drive.google.com/file/d/1gOlxVnVGkzdmCQfpicayN0vf7dE_6FbZ/view
   
 ### Screenshots
 ![Insomina Screenshot](./assets/images/insomnia.png)
 
 ![Code Screenshot](./assets/images/code.png)
-
-![Link to app in use](https://drive.google.com/file/d/1gOlxVnVGkzdmCQfpicayN0vf7dE_6FbZ/view)
 
 ## License
 This application is licensed under the MIT license.
